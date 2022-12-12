@@ -1,0 +1,8 @@
+{
+    "name":"blade/site",
+    "autoload":{
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+}
